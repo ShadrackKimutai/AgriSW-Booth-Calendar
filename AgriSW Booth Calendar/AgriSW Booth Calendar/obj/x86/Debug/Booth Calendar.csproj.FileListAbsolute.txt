@@ -1,0 +1,11 @@
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\bin\Debug\Booth Calendar.exe
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\bin\Debug\Booth Calendar.pdb
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.Boomain.resources
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\Booth_Calendar.appreusables.AboutBox1.resources
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\Booth_Calendar.Form1.resources
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\Booth_Calendar.Properties.Resources.resources
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\Booth Calendar.exe
+C:\Users\Krack3r\AppData\Local\Temporary Projects\Booth Calendar\obj\x86\Debug\Booth Calendar.pdb

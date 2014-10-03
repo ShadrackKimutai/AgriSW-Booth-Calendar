@@ -1,0 +1,65 @@
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe.config
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.Boomain.resources
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appreusables.AboutBox1.resources
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.Form1.resources
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.Properties.Resources.resources
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.pdb
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.exe
+C:\Users\Krack3r\documents\visual studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.pdb
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe.config
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe.manifest
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.application
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.pdb
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\PdfSharp.dll
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Send2Sql.dll
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Send2Sql.pdb
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Send2Sql.xml
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.Boomain.resources
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.GenerateCal.resources
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.Importxls.resources
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.reader.resources
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appreusables.AboutBox1.resources
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.Form1.resources
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.Properties.Resources.resources
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.TrustInfo.xml
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.exe.manifest
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.application
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.exe
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.pdb
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Formater.dll
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Formater.pdb
+C:\Users\Thesis\Documents\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Formater.xml
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe.config
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.exe
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.pdb
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.csprojResolveAssemblyReference.cache
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.Boomain.resources
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.GenerateCal.resources
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.Importxls.resources
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appmain.reader.resources
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.appreusables.AboutBox1.resources
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.Form1.resources
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\Booth_Calendar.Properties.Resources.resources
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.csproj.GenerateResource.Cache
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe.manifest
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.application
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.exe
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\AgriSW Booth Calendar.pdb
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Formater.dll
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\PdfSharp.dll
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Send2Sql.dll
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Formater.pdb
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Formater.xml
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Send2Sql.pdb
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\bin\Debug\Send2Sql.xml
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.TrustInfo.xml
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.exe.manifest
+K:\giga\Amazonia\VB Scrapbook\Visual Studio 2010\Projects\AgriSW Booth Calendar\AgriSW Booth Calendar\obj\x86\Debug\AgriSW Booth Calendar.application
